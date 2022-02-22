@@ -226,6 +226,12 @@ footer .categorias .lista-cat ul li a{
     border-radius: 20px;
 }
 
+footer .disc {
+    margin: 0% 10% 0% 10%;
+    font-size: 90%;
+    color: #888888;
+}
+
 footer .lista-inline ul li {
     display: inline-block;
     border-right: 2px solid black;
